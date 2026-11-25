@@ -1,0 +1,1 @@
+"""Mobile payment test suites."""
